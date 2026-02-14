@@ -14,9 +14,9 @@ dist-ssr
 *.local
 
 # Backend folder (ignore entire backend directory)
-backend/
-# If your backend folder is nested (e.g., /Website/backend), you can be more specific:
-# /backend/
+# backend/
+# # If your backend folder is nested (e.g., /Website/backend), you can be more specific:
+# # /backend/
 
 # Editor directories and files
 .vscode/*
